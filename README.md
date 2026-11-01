@@ -1,4 +1,4 @@
-# Week 6 Project: From Tables to Images — A Neural Network Lab
+# From Tables to Images — A Neural Network Lab
 
 ## Project overview
 
